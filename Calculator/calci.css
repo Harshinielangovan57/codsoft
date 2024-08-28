@@ -1,0 +1,35 @@
+.calculator{
+ width:155px;
+ margin:0 auto;
+ padding:20px;
+ background-color:#f0f0f0;
+ border:1px solid #ccc;
+ border-radius:5px;
+ box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+button{
+ width:35px;
+ height:35px;
+ margin:5px;
+ padding:10px;
+ background-color:#4CAF50;
+ color:#fff;
+ border:none;
+ border-radius:5px;
+ cursor:pointer;
+}
+button:haver{
+ background-color:#3eh8e41;
+}
+#display{
+ width:65px;
+ height:40px;
+ margin:5px;
+ padding:10px;
+ background-color:#fff;
+ border:none;
+ border-radius:5px;
+ font-size:24px;
+ text-align:right;
+}
+ 
